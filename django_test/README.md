@@ -1,4 +1,4 @@
-Create a simple web interface using javascript(any librariues you want) and django.
+Create a simple web interface using javascript(any libraries you want) and django.
 This interface should do the following:
      1> have a sign up page with first, last name, telephone(should be valid and masked), email address and password.
      2> login screen
